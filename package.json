@@ -27,8 +27,9 @@
     "postinstall": "install-app-deps"
   },
   "devDependencies": {
+    "electro": "^2.0.3",
     "electron": "^1.6.11",
-    "electron-builder": "^19.16.2"
+    "electron-builder": "^19.6.3"
   },
   "build": {
     "appId": "com.electron.electron-with-create-react-app",
